@@ -1,3 +1,5 @@
+# AJOU GREATIVE SOFTWARE CONCERT 2017-2
+
 ![주문관리 영상](https://user-images.githubusercontent.com/22605753/87369588-d7e6ba00-c5bb-11ea-9efd-e85a6c1aa976.gif)
 ![무인 카트 동작 영상](https://user-images.githubusercontent.com/22605753/87369636-f2b92e80-c5bb-11ea-943a-76f5fe02721d.gif)
 <img width="1138" alt="스크린샷 2020-07-14 오전 10 48 24" src="https://user-images.githubusercontent.com/22605753/87371137-ae2f9200-c5bf-11ea-99f7-379441bd8595.png">
